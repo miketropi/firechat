@@ -1,3 +1,15 @@
+# Firechat
+
+Use frontend React JS, Taildwindcss and Google Fireabse
+
+```cmd
+$ git clone 
+$ cd firechat
+$ npm run install
+
+$ npm run dev
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
